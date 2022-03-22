@@ -1,0 +1,147 @@
+/* Medium Layout: 1280px. */
+@media only screen and (max-width: 1124px) { 
+	.destinations_single_top img {
+	    width: 18px;
+	    height: 18px;
+	}
+
+	.destinations_single_top p {
+	    margin-left: 4px;
+	    font-size: 13px;
+	    position: relative;
+	    top: 0px;
+	}
+
+	.circle_progress .progress{
+		margin-top: 10px
+	}
+	.progress{
+		width: 75px;
+	}
+
+	p.circle_val {
+	    top: 22px;
+	    left: 18px;
+	    font-size: 23px;
+	}
+
+	.ranking_details_bottom h3 {
+	    margin-bottom: 0px;
+	    font-size: 20px;
+	}
+
+	.ranking_details_bottom p {
+	    font-size: 13px;
+	}
+
+	.ranking_details_bottom {
+	    margin-top: 8px;
+	}
+	.ranking_details_bottom a {
+	    width: 190px;
+	    padding: 7px;
+	    margin: 10px auto 0;
+	}
+
+	.slick_arrow {
+	    width: 17px;
+	    bottom: -10%;
+	    font-size: 30px;
+	}
+	.slick-counter {
+	    bottom: -42px;
+	    font-size: 24px;
+	}
+	.boat__content a {
+	    padding: 10px 10px;
+	    border-radius: 50px;
+	    width: 195px;
+	    margin: 0 auto;
+	    font-size: 14px;
+	}
+
+	.boat__content p {
+	    margin-bottom: 20px;
+	    font-size: 13px;
+	}
+
+	.feature_content h2 {
+	    font-size: 1.8rem;
+	    margin-bottom: 15px;
+	    padding-bottom: 15px;
+	}
+
+	.feature_content p {
+	    font-size: 16px;    
+	    margin-bottom: 40px;
+	    color: #fff;
+	}
+
+	.feature_content a {
+	    padding: 15px 20px;
+	    font-size: 13px;
+	}
+	.feature_content a svg {
+	    width: 18px;
+	    margin-right: 5px;
+	    position: relative;
+	    top: -2px;
+	}
+}
+
+
+@media only screen and (max-width: 1080px) { 
+    .widget_review_title img {
+	    width: 165px;
+	    margin-bottom: 8px;
+	}
+
+	.footer_single {
+	    padding-right: 0px;
+	    display: inline;
+	}
+
+	.widget_review_title img{
+		width: 160px;
+	}
+	.star-rating--large .star-item img {
+	    width: 85%;
+	}
+
+	.star-rating--large .star-item:not(:last-of-type) {
+	    margin-right: -4px;
+	}
+
+	.form--subscribe .field {
+    width: 100%;}
+
+    .topbar_nav ul li a {
+	    padding: 4px 0px;
+	    font-size: 14px;
+	}
+}
+/* Tablet & mobile Layout: 768px. */
+@media only screen and (max-width: 991px) { 
+    .sidebar_area{
+    	display: none;
+    }
+
+    .wrapper-has-sidebar {
+	    padding-left: 0px;
+	}
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
